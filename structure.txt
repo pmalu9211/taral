@@ -1,0 +1,12 @@
+project-root/
+├── frontend/
+│   ├── index.html
+│   ├── styles.css
+│   ├── script.js
+├── backend/
+│   ├── server.js
+│   ├── db.js
+│   ├── auth.js
+│   ├── routes.js
+├── package.json
+├── .env
